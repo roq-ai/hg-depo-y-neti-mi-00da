@@ -1,0 +1,862 @@
+[
+  {
+    "inventory": [
+      {
+        "id": "d0f9de33-daeb-4047-94cb-aff2660196ef",
+        "created_at": "2023-09-22T07:06:59.901Z",
+        "updated_at": "2023-09-21T12:40:12.409Z",
+        "name_at": "Item 1",
+        "price_at": 33663
+      },
+      {
+        "id": "0d0be909-7bde-49d5-9c56-487bd0d89f0b",
+        "created_at": "2023-09-22T01:03:32.155Z",
+        "updated_at": "2023-09-21T21:38:39.626Z",
+        "name_at": "Item 2",
+        "price_at": 81747
+      },
+      {
+        "id": "410f162b-0986-4840-a0d3-f10536a48a08",
+        "created_at": "2023-09-22T03:15:23.043Z",
+        "updated_at": "2023-09-21T19:16:08.121Z",
+        "name_at": "Item 3",
+        "price_at": 61333
+      },
+      {
+        "id": "fc90ce65-8a84-417c-bdf8-3e9519be05af",
+        "created_at": "2023-09-21T11:06:06.035Z",
+        "updated_at": "2023-09-21T08:01:50.738Z",
+        "name_at": "Item 4",
+        "price_at": 96184
+      },
+      {
+        "id": "6d6a1b8b-f677-4f2a-abe4-e7fa0dccd135",
+        "created_at": "2023-09-22T02:49:48.575Z",
+        "updated_at": "2023-09-22T03:36:45.283Z",
+        "name_at": "Item 5",
+        "price_at": 8754
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5a7d9f93-afc7-4d87-bd6f-e0370a6913cd",
+        "email": "Eusebio.Kerluke@roq.tech",
+        "firstName": "Kaitlyn",
+        "lastName": "Schumm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/485.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d88e0a8f-3f8e-4536-917d-2c4e23e2e796",
+        "email": "Nathen.DAmore@roq.tech",
+        "firstName": "Anita",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1152.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "531176a1-75f2-48cb-a3d8-4c4919db520b",
+        "email": "Davonte67@roq.tech",
+        "firstName": "Rubye",
+        "lastName": "Ratke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82412576",
+        "tenantId": null
+      },
+      {
+        "reference": "81b98cdb-85f8-45b8-9e02-ff71397c9266",
+        "email": "Alexander.Littel53@roq.tech",
+        "firstName": "Geo",
+        "lastName": "Flatley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/273.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "02301b33-e071-4277-bfc8-7ffb8b00fd7d",
+        "email": "Rosalee_Wiegand@roq.tech",
+        "firstName": "Joseph",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89582163",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "inventory": [
+      {
+        "id": "401b2cf0-a4c1-47af-8dd5-6905ab7d6627",
+        "created_at": "2023-09-22T04:52:20.138Z",
+        "updated_at": "2023-09-22T07:01:06.320Z",
+        "name_at": "Item A",
+        "price_at": 34659
+      },
+      {
+        "id": "ff417eef-1263-401a-9c4b-761dc70035bf",
+        "created_at": "2023-09-21T18:47:17.092Z",
+        "updated_at": "2023-09-21T09:11:08.552Z",
+        "name_at": "Item B",
+        "price_at": 65974
+      },
+      {
+        "id": "8414ca9c-6850-4c5f-8d49-27952a9c655b",
+        "created_at": "2023-09-21T22:14:51.839Z",
+        "updated_at": "2023-09-21T10:16:59.023Z",
+        "name_at": "Item C",
+        "price_at": 46332
+      },
+      {
+        "id": "65f3e23c-bed6-4a01-b906-f1ac3ac0a7b5",
+        "created_at": "2023-09-22T06:10:31.823Z",
+        "updated_at": "2023-09-21T07:44:54.726Z",
+        "name_at": "Item D",
+        "price_at": 54557
+      },
+      {
+        "id": "b7727b56-acaa-4c8f-8d9d-e82e932fef44",
+        "created_at": "2023-09-21T22:14:41.305Z",
+        "updated_at": "2023-09-21T13:55:40.930Z",
+        "name_at": "Item E",
+        "price_at": 23176
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "286a6bff-a870-422c-96c1-127d76fa514f",
+        "email": "Edna.Boehm79@roq.tech",
+        "firstName": "Zora",
+        "lastName": "Berge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/927.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d8dede17-1053-4355-ad66-4ff5fb4037a9",
+        "email": "Mervin54@roq.tech",
+        "firstName": "Simone",
+        "lastName": "Barrows",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/263.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9b4eb350-409d-4f74-b78a-abaed058b950",
+        "email": "Agnes.Rippin60@roq.tech",
+        "firstName": "Kasandra",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/780.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "de83e002-8e13-44a1-80aa-da369c3ed4c0",
+        "email": "Esperanza_Sipes13@roq.tech",
+        "firstName": "Timothy",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/879.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ada4530b-ad35-4d74-9dae-aec31f407f73",
+        "email": "Alia_Wyman75@roq.tech",
+        "firstName": "Afton",
+        "lastName": "Gusikowski-Hills",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/688.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "inventory": [
+      {
+        "id": "a5d0520d-d9a5-420f-9650-848c81d59205",
+        "created_at": "2023-09-21T22:40:35.021Z",
+        "updated_at": "2023-09-21T14:21:28.380Z",
+        "name_at": "Item A",
+        "price_at": 90092
+      },
+      {
+        "id": "0d5bd594-3f17-4a87-bd58-0bd80ce40820",
+        "created_at": "2023-09-22T01:15:41.454Z",
+        "updated_at": "2023-09-21T09:58:23.532Z",
+        "name_at": "Item B",
+        "price_at": 72934
+      },
+      {
+        "id": "32a6cb04-4b17-4354-88b9-35870b621df7",
+        "created_at": "2023-09-21T09:35:01.867Z",
+        "updated_at": "2023-09-21T23:28:25.023Z",
+        "name_at": "Item C",
+        "price_at": 82520
+      },
+      {
+        "id": "f32e7734-efb7-414a-943f-ec035c77d369",
+        "created_at": "2023-09-21T21:03:49.627Z",
+        "updated_at": "2023-09-22T06:35:08.046Z",
+        "name_at": "Item D",
+        "price_at": 98607
+      },
+      {
+        "id": "68e36c3c-385c-4f51-9af0-1f9e70a5ec2c",
+        "created_at": "2023-09-21T11:12:49.658Z",
+        "updated_at": "2023-09-21T07:26:11.149Z",
+        "name_at": "Item E",
+        "price_at": 56213
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "36f16b36-9c1f-4488-a021-21bc95111358",
+        "email": "Gia42@roq.tech",
+        "firstName": "Hanna",
+        "lastName": "Lemke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51389062",
+        "tenantId": null
+      },
+      {
+        "reference": "3f579288-8ce0-46b8-a8d5-20592d30b855",
+        "email": "Esther_Bogan@roq.tech",
+        "firstName": "Richie",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/624.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "69db5fa3-5d13-49f3-9219-06d6be43cd2d",
+        "email": "Helmer.Howe@roq.tech",
+        "firstName": "Rosanna",
+        "lastName": "Gerhold",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31845910",
+        "tenantId": null
+      },
+      {
+        "reference": "d00fe619-3d76-4f0f-88b9-58503ecc5dc4",
+        "email": "Cicero_Swaniawski19@roq.tech",
+        "firstName": "Ethyl",
+        "lastName": "Sawayn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/672300",
+        "tenantId": null
+      },
+      {
+        "reference": "a2e812fb-9d5f-4991-afd9-6341dde885dc",
+        "email": "Marcelina.Hills@roq.tech",
+        "firstName": "Nathen",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73446824",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "inventory": [
+      {
+        "id": "75b7f65c-b437-4c4c-a94d-f3c1a3271c7a",
+        "created_at": "2023-09-21T15:42:39.573Z",
+        "updated_at": "2023-09-22T01:25:33.636Z",
+        "name_at": "Product A",
+        "price_at": 10858
+      },
+      {
+        "id": "e2f9d228-21e4-40a8-a589-80719daa7eab",
+        "created_at": "2023-09-21T18:15:54.839Z",
+        "updated_at": "2023-09-21T19:12:23.792Z",
+        "name_at": "Product B",
+        "price_at": 20159
+      },
+      {
+        "id": "f0484249-4fbf-4b19-b784-f5fd808adf4a",
+        "created_at": "2023-09-21T20:05:09.976Z",
+        "updated_at": "2023-09-21T10:11:22.450Z",
+        "name_at": "Product C",
+        "price_at": 26205
+      },
+      {
+        "id": "06047e0a-7407-4477-b251-a23d429eb3dc",
+        "created_at": "2023-09-21T22:46:32.264Z",
+        "updated_at": "2023-09-21T17:51:12.372Z",
+        "name_at": "Product D",
+        "price_at": 61322
+      },
+      {
+        "id": "2a86f8bb-40c2-4dc2-b954-258f5f798549",
+        "created_at": "2023-09-21T15:51:28.339Z",
+        "updated_at": "2023-09-21T14:53:53.441Z",
+        "name_at": "Product E",
+        "price_at": 25361
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "dc841148-f90c-4d15-b870-a4fc715c26ec",
+        "email": "Katarina10@roq.tech",
+        "firstName": "Rupert",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/403724",
+        "tenantId": null
+      },
+      {
+        "reference": "aae24216-67c2-404d-a0f2-8a47d1ecb70c",
+        "email": "Dora97@roq.tech",
+        "firstName": "Name",
+        "lastName": "Bashirian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/803.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c4ffc975-942c-406b-93df-d06213657708",
+        "email": "Keven79@roq.tech",
+        "firstName": "Megane",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48048905",
+        "tenantId": null
+      },
+      {
+        "reference": "8400392c-73e6-4e57-b41d-49f6263d1c71",
+        "email": "Rogelio.Harris@roq.tech",
+        "firstName": "Perry",
+        "lastName": "Barrows-Purdy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50911420",
+        "tenantId": null
+      },
+      {
+        "reference": "eab6ed6e-34fc-4412-b92e-6c85bca344c5",
+        "email": "Novella40@roq.tech",
+        "firstName": "Amaya",
+        "lastName": "Orn-Schmidt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/594.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "inventory": [
+      {
+        "id": "9f1d4b25-a5de-4915-8a66-6062e7b08986",
+        "created_at": "2023-09-21T20:42:14.490Z",
+        "updated_at": "2023-09-21T23:22:42.134Z",
+        "name_at": "Item 1",
+        "price_at": 64401
+      },
+      {
+        "id": "853ed7c1-c690-4150-b1b0-6cc50ea9f15f",
+        "created_at": "2023-09-21T16:30:18.424Z",
+        "updated_at": "2023-09-21T11:01:02.523Z",
+        "name_at": "Item 2",
+        "price_at": 27015
+      },
+      {
+        "id": "d2911e88-77ab-412a-9e1c-8f3f6cd43bb4",
+        "created_at": "2023-09-21T16:54:01.340Z",
+        "updated_at": "2023-09-21T14:18:53.548Z",
+        "name_at": "Item 3",
+        "price_at": 71410
+      },
+      {
+        "id": "cb8feb64-1329-4a99-9515-5183ccec417b",
+        "created_at": "2023-09-21T22:42:11.075Z",
+        "updated_at": "2023-09-21T07:49:45.829Z",
+        "name_at": "Item 4",
+        "price_at": 47868
+      },
+      {
+        "id": "019f6cbe-9ae0-46d5-9f9b-a2ffd5ab703e",
+        "created_at": "2023-09-22T00:59:44.889Z",
+        "updated_at": "2023-09-21T18:51:24.662Z",
+        "name_at": "Item 5",
+        "price_at": 11964
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3cb0aa4f-0dde-47d0-acb2-897f3b772b81",
+        "email": "Dayana_Emard15@roq.tech",
+        "firstName": "Zaria",
+        "lastName": "Gutkowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/29.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ed344476-d592-45ea-aa24-32730ef465f6",
+        "email": "Madge36@roq.tech",
+        "firstName": "Wilford",
+        "lastName": "Heller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/280.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7c93ab58-b6d6-411c-b269-1a422d97bd93",
+        "email": "Christelle.Turner@roq.tech",
+        "firstName": "Beryl",
+        "lastName": "Dach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21850984",
+        "tenantId": null
+      },
+      {
+        "reference": "43d02cef-73de-4e88-a47a-c4c9125eae8f",
+        "email": "Wilbert_Ankunding37@roq.tech",
+        "firstName": "Savion",
+        "lastName": "Jacobs",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77777032",
+        "tenantId": null
+      },
+      {
+        "reference": "93ed444a-a940-4ebc-b6ae-bb2ac34b7ed4",
+        "email": "Otilia.Bode39@roq.tech",
+        "firstName": "Laurence",
+        "lastName": "Rempel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/868.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "inventory": [
+      {
+        "id": "1d785d79-3be6-4f79-a12e-192923be6d6d",
+        "created_at": "2023-09-21T11:00:44.816Z",
+        "updated_at": "2023-09-21T15:33:13.660Z",
+        "name_at": "Item A",
+        "price_at": 94864
+      },
+      {
+        "id": "eba5e7a7-e974-4a14-8ea7-2e5896b335c7",
+        "created_at": "2023-09-21T07:24:34.370Z",
+        "updated_at": "2023-09-21T20:27:49.305Z",
+        "name_at": "Item B",
+        "price_at": 5517
+      },
+      {
+        "id": "16851b3e-6782-4a77-a315-ce6eeca67fca",
+        "created_at": "2023-09-21T21:33:04.005Z",
+        "updated_at": "2023-09-21T21:25:08.520Z",
+        "name_at": "Item C",
+        "price_at": 33034
+      },
+      {
+        "id": "2baf0732-f78c-4b63-b020-b17f82f8e4f2",
+        "created_at": "2023-09-21T18:43:48.651Z",
+        "updated_at": "2023-09-21T19:11:15.865Z",
+        "name_at": "Item D",
+        "price_at": 94896
+      },
+      {
+        "id": "cd5074d6-025a-459d-a3fb-1f0c8f09b14e",
+        "created_at": "2023-09-22T00:10:19.949Z",
+        "updated_at": "2023-09-21T20:00:49.858Z",
+        "name_at": "Item E",
+        "price_at": 70784
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "84fcef77-21e9-4376-b132-53190190a8cf",
+        "email": "Abbigail98@roq.tech",
+        "firstName": "Ellis",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1046.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c60786f6-659e-4f48-8088-cc8c5ab4c9ec",
+        "email": "Gudrun.Bergstrom19@roq.tech",
+        "firstName": "Misael",
+        "lastName": "Predovic",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/243.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c318d8a4-2bd9-468f-a935-4f1f292036a5",
+        "email": "Vivianne_Upton93@roq.tech",
+        "firstName": "Freddy",
+        "lastName": "Keeling",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73518343",
+        "tenantId": null
+      },
+      {
+        "reference": "7e7f7176-b743-4ee1-9af9-867d01eb0fc6",
+        "email": "Estevan.Bartell@roq.tech",
+        "firstName": "Carmen",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1131.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b31a4ea9-c0e8-4e3c-8b1a-096308d61959",
+        "email": "Bartholome.Weber41@roq.tech",
+        "firstName": "Ian",
+        "lastName": "Gutkowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/439.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "inventory": [
+      {
+        "id": "089765bc-a6ba-4be4-a01e-8aef2a76fd15",
+        "created_at": "2023-09-21T15:57:05.054Z",
+        "updated_at": "2023-09-21T09:46:23.705Z",
+        "name_at": "Product A",
+        "price_at": 37458
+      },
+      {
+        "id": "2e9ea9b7-671a-45c4-86dc-208942f918a9",
+        "created_at": "2023-09-21T21:35:30.221Z",
+        "updated_at": "2023-09-21T15:49:44.004Z",
+        "name_at": "Product B",
+        "price_at": 4065
+      },
+      {
+        "id": "7b6d03d9-6cbe-4e8e-9077-988a5cfc87c9",
+        "created_at": "2023-09-21T22:40:19.862Z",
+        "updated_at": "2023-09-21T11:06:47.951Z",
+        "name_at": "Product C",
+        "price_at": 33877
+      },
+      {
+        "id": "e0854845-66d0-4475-96ab-4d0202444a93",
+        "created_at": "2023-09-21T20:59:04.546Z",
+        "updated_at": "2023-09-21T19:55:32.285Z",
+        "name_at": "Product D",
+        "price_at": 94117
+      },
+      {
+        "id": "8b078000-9fa0-4c20-a06c-b363203417ed",
+        "created_at": "2023-09-22T02:54:53.933Z",
+        "updated_at": "2023-09-21T18:14:11.376Z",
+        "name_at": "Product E",
+        "price_at": 22644
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c9f9dddc-056c-4b59-905a-2b7a406dbf86",
+        "email": "Kaleigh.Hauck37@roq.tech",
+        "firstName": "Elinor",
+        "lastName": "Hirthe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9955054",
+        "tenantId": null
+      },
+      {
+        "reference": "c00278fb-28af-443e-b70b-cd708ccc0860",
+        "email": "Arvid_Davis@roq.tech",
+        "firstName": "Deonte",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1234.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a19ca396-4c8c-41b4-b893-35516c2aeae4",
+        "email": "Bailey_Christiansen@roq.tech",
+        "firstName": "Kiera",
+        "lastName": "Douglas-Schaden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1131.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c9d63bd4-6292-4e00-b58a-3e8036bd52d9",
+        "email": "Mable_Shanahan84@roq.tech",
+        "firstName": "Imogene",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51963203",
+        "tenantId": null
+      },
+      {
+        "reference": "cbd3c0eb-50c2-4bc6-998b-4c189e6fe24b",
+        "email": "Emmalee_Schmidt70@roq.tech",
+        "firstName": "Alberto",
+        "lastName": "Abbott",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69333392",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "inventory": [
+      {
+        "id": "0e594bd5-c932-4ecc-ad02-7606ac96fa0b",
+        "created_at": "2023-09-22T04:17:16.923Z",
+        "updated_at": "2023-09-21T08:24:49.709Z",
+        "name_at": "Item A",
+        "price_at": 97382
+      },
+      {
+        "id": "df054576-cbe9-463b-8ada-24c926386d94",
+        "created_at": "2023-09-21T19:16:07.674Z",
+        "updated_at": "2023-09-22T00:08:32.386Z",
+        "name_at": "Item B",
+        "price_at": 35452
+      },
+      {
+        "id": "cbd88f9a-baa6-41cb-bdf9-1ac4080c9741",
+        "created_at": "2023-09-21T19:05:56.575Z",
+        "updated_at": "2023-09-21T07:45:57.790Z",
+        "name_at": "Item C",
+        "price_at": 43818
+      },
+      {
+        "id": "b50a061b-1e93-4e84-8cd8-bff11c4acf19",
+        "created_at": "2023-09-22T02:26:48.345Z",
+        "updated_at": "2023-09-21T13:04:00.261Z",
+        "name_at": "Item D",
+        "price_at": 10226
+      },
+      {
+        "id": "2c94363b-73b9-489c-986d-c995c9664775",
+        "created_at": "2023-09-22T05:58:37.818Z",
+        "updated_at": "2023-09-21T07:37:26.780Z",
+        "name_at": "Item E",
+        "price_at": 21114
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e737ec3c-164d-4604-ac9e-1d052b0dbef5",
+        "email": "Vanessa1@roq.tech",
+        "firstName": "Dan",
+        "lastName": "Ruecker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77210719",
+        "tenantId": null
+      },
+      {
+        "reference": "b83b62d6-5934-492c-b1f5-7c97f0056be7",
+        "email": "Adan20@roq.tech",
+        "firstName": "Aliya",
+        "lastName": "Senger-Cole",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49141095",
+        "tenantId": null
+      },
+      {
+        "reference": "42aef69d-0556-47a8-b58e-1191fbd094d1",
+        "email": "Jorge15@roq.tech",
+        "firstName": "Emilie",
+        "lastName": "Tremblay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/586.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "42f8db9d-5f1b-43fe-9774-83ea7bb85f5f",
+        "email": "Harry11@roq.tech",
+        "firstName": "Nyah",
+        "lastName": "Howell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/528.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f99aa634-aa91-470f-89d5-4cd67ec73ca7",
+        "email": "Jackson85@roq.tech",
+        "firstName": "Reinhold",
+        "lastName": "Pagac",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/359.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "inventory": [
+      {
+        "id": "35d7304f-cad5-4848-bd76-750469aceada",
+        "created_at": "2023-09-21T11:45:06.407Z",
+        "updated_at": "2023-09-21T11:18:13.035Z",
+        "name_at": "Product A",
+        "price_at": 2411
+      },
+      {
+        "id": "855ea9be-d381-4b25-9254-49b7a5129838",
+        "created_at": "2023-09-21T14:03:19.795Z",
+        "updated_at": "2023-09-22T05:38:37.783Z",
+        "name_at": "Product B",
+        "price_at": 88125
+      },
+      {
+        "id": "9c5ef725-2a78-476f-8b1d-114d12eae509",
+        "created_at": "2023-09-21T23:30:40.020Z",
+        "updated_at": "2023-09-22T05:52:07.124Z",
+        "name_at": "Product C",
+        "price_at": 41120
+      },
+      {
+        "id": "46589496-0f93-45a5-99ad-f33c7ceb1790",
+        "created_at": "2023-09-21T18:19:03.008Z",
+        "updated_at": "2023-09-21T13:44:08.205Z",
+        "name_at": "Product D",
+        "price_at": 65546
+      },
+      {
+        "id": "54da670e-cc88-49b5-913e-76091577d510",
+        "created_at": "2023-09-22T04:55:24.452Z",
+        "updated_at": "2023-09-21T09:11:42.038Z",
+        "name_at": "Product E",
+        "price_at": 88296
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "589daf1d-5267-43c4-ba7b-1c5efb361e40",
+        "email": "Candida.Lind@roq.tech",
+        "firstName": "Tabitha",
+        "lastName": "Kohler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32120095",
+        "tenantId": null
+      },
+      {
+        "reference": "d8604702-709f-4705-a7b0-374a3af2e1ef",
+        "email": "Bertha17@roq.tech",
+        "firstName": "Karlee",
+        "lastName": "Graham-Macejkovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21969123",
+        "tenantId": null
+      },
+      {
+        "reference": "2f221085-4307-4568-b82c-b2991ea62668",
+        "email": "Christa32@roq.tech",
+        "firstName": "Fernando",
+        "lastName": "Fay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/201.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "14a869c0-41c2-4eef-baee-c1221ddc5b72",
+        "email": "Gerald26@roq.tech",
+        "firstName": "Isadore",
+        "lastName": "Dooley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/98.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2ffeab58-c2cd-46d2-8a86-b8ca5d05ada6",
+        "email": "Levi_Hane@roq.tech",
+        "firstName": "Pierre",
+        "lastName": "Carter",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49039771",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "inventory": [
+      {
+        "id": "d0bcee91-e39f-41f4-8772-86867ca14727",
+        "created_at": "2023-09-22T06:46:40.242Z",
+        "updated_at": "2023-09-22T04:46:15.722Z",
+        "name_at": "Product A",
+        "price_at": 43769
+      },
+      {
+        "id": "3e4b3e88-00e9-4f29-8098-e3eb31847598",
+        "created_at": "2023-09-21T21:46:51.670Z",
+        "updated_at": "2023-09-21T22:26:04.273Z",
+        "name_at": "Product B",
+        "price_at": 83687
+      },
+      {
+        "id": "13c35df5-ac0e-46fb-bd37-958b448db8f8",
+        "created_at": "2023-09-21T16:33:55.638Z",
+        "updated_at": "2023-09-22T03:45:10.503Z",
+        "name_at": "Product C",
+        "price_at": 66145
+      },
+      {
+        "id": "4cbad6d9-d3bd-4fff-bd86-30cda90e634e",
+        "created_at": "2023-09-21T16:49:51.340Z",
+        "updated_at": "2023-09-21T10:18:27.737Z",
+        "name_at": "Product D",
+        "price_at": 66130
+      },
+      {
+        "id": "9820ca2d-dc4d-455a-a7d4-84d6c337a802",
+        "created_at": "2023-09-22T02:26:15.759Z",
+        "updated_at": "2023-09-22T04:38:10.899Z",
+        "name_at": "Product E",
+        "price_at": 9789
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "626417fd-697e-4f7e-8383-9b8cbae5aa90",
+        "email": "Isaias_Corkery@roq.tech",
+        "firstName": "Loyal",
+        "lastName": "Mills",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/138.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f7cf868c-a314-44e3-9860-c26876c11089",
+        "email": "Jasen33@roq.tech",
+        "firstName": "Angelica",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/163.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ebd37715-5f59-415e-8b35-a39520deb552",
+        "email": "Ahmad.Reynolds@roq.tech",
+        "firstName": "Bethel",
+        "lastName": "Dicki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/56.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9b047c39-5343-47d4-a9ee-af07ad0a8b22",
+        "email": "Virgie.Towne39@roq.tech",
+        "firstName": "Jadon",
+        "lastName": "Graham",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88842511",
+        "tenantId": null
+      },
+      {
+        "reference": "bf4a45b5-1c00-46ae-91b8-e42c1b178eb2",
+        "email": "Catherine.Hammes45@roq.tech",
+        "firstName": "Ike",
+        "lastName": "Kuhn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58360554",
+        "tenantId": null
+      }
+    ]
+  }
+]
